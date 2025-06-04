@@ -2,3 +2,4 @@
 let str= "Vinoth";
 console.log(str[0]);
 console.log(str.charAt(1));
+console.log(str[2]);
